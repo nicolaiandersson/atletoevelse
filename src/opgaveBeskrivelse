@@ -1,0 +1,7 @@
+1. Lav en Athlete klasse og en Ranking klasse,
+    Athlete klassen skal have to attributter - navn og tid
+
+2. I Ranking klassen, lav en metode der tilføjer atleter til en rangering
+
+3. Få rangeringen til at sortere atleterne efter deres tid
+
